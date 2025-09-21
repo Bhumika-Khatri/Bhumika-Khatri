@@ -69,16 +69,16 @@ Here are some ideas to get you started:
 An Airbnb-inspired web application built using the **MERN stack** (MongoDB, Express, React, Node.js).  
 
 **Key Features:**  
-- User authentication with secure sign-up and login  
+- Secure user authentication with sign-up and login  
 - Dynamic hotel listings with multiple categories  
-- Responsive, mobile-friendly UI using Bootstrap  
-- Data served from MongoDB via a RESTful API  
-- Scalable backend built with Express and Node.js  
+- Search functionality and ability to add new listings  
+- Interactive map integration for location discovery  
+- Responsive, mobile-friendly UI for a seamless experience  
+- Modular backend architecture with RESTful APIs for scalability  
 
 **Planned Features:**  
 - Review and rating system  
-- Location-based filtering with maps
-
+- Location-based filtering using maps
 
 ###
 
