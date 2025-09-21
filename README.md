@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhumika-Khatri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Bhumika-Khatri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  /> -->
   <img src="https://streak-stats.demolab.com?user=Bhumika-Khatri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhumika-Khatri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
 </div>
