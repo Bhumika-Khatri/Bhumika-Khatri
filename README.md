@@ -66,7 +66,10 @@ Here are some ideas to get you started:
 
 ### 🚀 My Projects
 **[Wonderlust](https://github.com/Bhumika-Khatri/WonderLust)**  
-An Airbnb-inspired web application built using the **MERN stack** (MongoDB, Express, React, Node.js).  
+A full-stack hotel listing platform enabling users to explore accommodations with full-location mapping.  
+
+**Technologies Used:**  
+HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express.js, MongoDB, RESTful APIs, Google Maps API 
 
 **Key Features:**  
 - Secure user authentication with sign-up and login  
