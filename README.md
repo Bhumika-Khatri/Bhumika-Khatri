@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ###
 
 <h3>I’m currently working on</h3>
-<p>TutorGPT – an AI-powered chatbot for college students that remembers your previous chats and provides smart, interactive answers to help you learn faster.</p>
+<p>MindMate – an AI-powered mental health companion for students that remembers past conversations, provides emotional support, and helps address psychological challenges of today’s era.</p>
 
 <h3>I’m looking to collaborate on</h3>
 <p>Full-stack MERN projects, AI/ML applications, and software engineering challenges.</p>
