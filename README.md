@@ -64,6 +64,22 @@ Here are some ideas to get you started:
 <h3>I’m looking to collaborate on</h3>
 <p>Full-stack MERN projects, AI/ML applications, and software engineering challenges.</p>
 
+### 🚀 My Projects
+**[Wonderlust](https://github.com/Bhumika-Khatri/WonderLust)**  
+An Airbnb-inspired web application built using the **MERN stack** (MongoDB, Express, React, Node.js).  
+
+**Key Features:**  
+- User authentication with secure sign-up and login  
+- Dynamic hotel listings with multiple categories  
+- Responsive, mobile-friendly UI using Bootstrap  
+- Data served from MongoDB via a RESTful API  
+- Scalable backend built with Express and Node.js  
+
+**Planned Features:**  
+- Review and rating system  
+- Location-based filtering with maps
+
+
 ###
 
 <br clear="both">
