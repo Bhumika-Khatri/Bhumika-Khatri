@@ -67,13 +67,7 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
+<!-- Snake Animation without workflow -->
+<img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg" alt="Snake animation" />
 
-<!-- Snake Animation (requires GitHub Action setup to generate snake.svg in output branch) -->
-<img src="https://raw.githubusercontent.com/Bhumika-Khatri/Bhumika-Khatri/output/snake.svg" alt="Snake animation" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
