@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Bhumika khatri</h1>
-
 <h2 align="left">Hi 👋! My name is Bhumika Khatri and I’m a passionate AI & ML student, mastering Java DSA and building full-stack solutions to grow as a developer.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhumika-Khatri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Bhumika-Khatri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhumika-Khatri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhumika-Khatri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
+  <img src="https://streak-stats.demolab.com?user=Bhumika-Khatri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhumika-Khatri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
 </div>
 
 ###
@@ -38,8 +37,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -48,10 +45,10 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="khatribhumi88@gmail.com" target="_blank">
+  <a href="https://www.instagram.com/bhumikakhatri1414/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="bhumikakhatri312@gmail.com" target="_blank">
+  <a href="mailto:bhumikakhatri312@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/bhumikakhatri1414/" target="_blank">
@@ -61,12 +58,16 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h3>🔭 I’m currently working on</h3>
+<p>TutorGPT – an AI-powered chatbot for college students that remembers your previous chats and provides smart, interactive answers to help you learn faster.</p>
+
+<h3>👯 I’m looking to collaborate on</h3>
+<p>Full-stack MERN projects, AI/ML applications, and software engineering challenges.</p>
 
 ###
 
 <br clear="both">
 
+<!-- Snake Animation (requires GitHub Action setup to generate snake.svg in output branch) -->
 <img src="https://raw.githubusercontent.com/Bhumika-Khatri/Bhumika-Khatri/output/snake.svg" alt="Snake animation" />
 
-###
