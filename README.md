@@ -61,26 +61,7 @@ Here are some ideas to get you started:
 <h3>I’m looking to collaborate on</h3>
 <p>Full-stack MERN projects, AI/ML applications, and software engineering challenges.</p>
 
-### 🚀 My Projects
-**[Wonderlust](https://github.com/Bhumika-Khatri/WonderLust)**  
-A full-stack hotel listing platform enabling users to explore accommodations with full-location mapping.  
 
-**Technologies Used:**  
-HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express.js, MongoDB, RESTful APIs, Google Maps API 
-
-**Key Features:**  
-- Secure user authentication with sign-up and login  
-- Dynamic hotel listings with multiple categories  
-- Search functionality and ability to add new listings  
-- Interactive map integration for location discovery  
-- Responsive, mobile-friendly UI for a seamless experience  
-- Modular backend architecture with RESTful APIs for scalability  
-
-**Planned Features:**  
-- Review and rating system  
-- Location-based filtering using maps
-
-###
 
 <br clear="both">
 
