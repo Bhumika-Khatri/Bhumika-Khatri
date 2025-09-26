@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 
 
 🔭 Projects
+
 WonderLust– Full-Stack Hotel Listing Platform
 
 A full-stack hotel listing platform built for users to explore, review, and add hotels with interactive mapping.
