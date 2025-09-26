@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <p>MindMate – an AI-powered mental health companion for students that remembers past conversations, provides emotional support, and helps address psychological challenges of today’s era.</p>
 
 <h3>I’m looking to collaborate on</h3>
-<p>Full-stack MERN projects, AI/ML applications, and software engineering challenges.</p>
+<p>Full-stack MERN projects, AI/ML applications and software engineering challenges.</p>
 
 
 
