@@ -62,7 +62,22 @@ Here are some ideas to get you started:
 <p>Full-stack MERN projects, AI/ML applications and software engineering challenges.</p>
 
 
+🔭 Projects
+WonderLust– Full-Stack Hotel Listing Platform
 
+A full-stack hotel listing platform built for users to explore, review, and add hotels with interactive mapping.
+
+Key Features:
+Search Hotels: Quickly find hotels by name, location, or amenities.
+Add New Listings: Admins can add new hotels with details like name, location, images, description, and price.
+User Reviews & Ratings: Users can leave reviews and ratings for hotels.
+Interactive Map Integration: Dynamic map showing hotel locations for easy discovery.
+Responsive Design: Works seamlessly on mobile, tablet, and desktop.
+User Authentication: Secure login and registration system for managing accounts and reviews.
+Modular Backend: Organized backend architecture for scalability and maintainability.
+
+Technologies Used:
+HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, Google Maps API
 <br clear="both">
 
 
