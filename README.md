@@ -67,19 +67,19 @@ Here are some ideas to get you started:
 A full-stack hotel listing platform enabling users to explore accommodations with full-location mapping.  
 
 **Technologies Used:**  
-HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express.js, MongoDB, RESTful APIs, Google Maps API (or whichever map API you used)  
+HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express.js, MongoDB, RESTful APIs, Google Maps API.  
 
 **Key Features:**  
-- Secure user authentication with sign-up and login  
-- Dynamic hotel listings with multiple categories  
-- Search functionality and ability to add new listings  
-- Interactive map integration for location discovery  
-- Responsive, mobile-friendly UI for a seamless experience  
-- Modular backend architecture with RESTful APIs for scalability  
+- Secure user authentication with sign-up and login.  
+- Dynamic hotel listings with multiple categories.  
+- Search functionality and ability to add new listings.  
+- Interactive map integration for location discovery.  
+- Responsive, mobile-friendly UI for a seamless experience.  
+- Modular backend architecture with RESTful APIs for scalability.  
 
 **Planned Features:**  
-- Review and rating system  
-- Location-based filtering using maps
+- Review and rating system.  
+- Location-based filtering using maps.
 
 <br clear="both">
 
