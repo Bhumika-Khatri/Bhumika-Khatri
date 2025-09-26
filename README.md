@@ -62,23 +62,25 @@ Here are some ideas to get you started:
 <p>Full-stack MERN projects, AI/ML applications and software engineering challenges.</p>
 
 
-🔭 Projects
+### 🚀 My Projects
+**[Wonderlust](https://github.com/Bhumika-Khatri/Wonderlust)**  
+A full-stack hotel listing platform enabling users to explore accommodations with full-location mapping.  
 
-WonderLust– Full-Stack Hotel Listing Platform
+**Technologies Used:**  
+HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express.js, MongoDB, RESTful APIs, Google Maps API (or whichever map API you used)  
 
-A full-stack hotel listing platform built for users to explore, review, and add hotels with interactive mapping.
+**Key Features:**  
+- Secure user authentication with sign-up and login  
+- Dynamic hotel listings with multiple categories  
+- Search functionality and ability to add new listings  
+- Interactive map integration for location discovery  
+- Responsive, mobile-friendly UI for a seamless experience  
+- Modular backend architecture with RESTful APIs for scalability  
 
-Key Features:
-Search Hotels: Quickly find hotels by name, location, or amenities.
-Add New Listings: Admins can add new hotels with details like name, location, images, description, and price.
-User Reviews & Ratings: Users can leave reviews and ratings for hotels.
-Interactive Map Integration: Dynamic map showing hotel locations for easy discovery.
-Responsive Design: Works seamlessly on mobile, tablet, and desktop.
-User Authentication: Secure login and registration system for managing accounts and reviews.
-Modular Backend: Organized backend architecture for scalability and maintainability.
+**Planned Features:**  
+- Review and rating system  
+- Location-based filtering using maps
 
-Technologies Used:
-HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, Google Maps API
 <br clear="both">
 
 
