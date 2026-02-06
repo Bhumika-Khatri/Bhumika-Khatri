@@ -81,6 +81,32 @@ HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express.js, MongoDB, RESTful A
 - Review and rating system.  
 - Location-based filtering using maps.
 
+**Deforestation Detection using Satellite Images (CNN)**  
+A deep learning project that detects deforested areas using satellite imagery and Convolutional Neural Networks (CNN). The model analyzes land cover patterns to identify forest loss regions and support environmental monitoring.
+
+**Technologies Used:**  
+Python, CNN, TensorFlow/Keras, NumPy, OpenCV, Satellite Image Dataset  
+
+**Key Features:**  
+- Image preprocessing and dataset preparation.  
+- CNN model for land classification.  
+- Detection of deforested vs forest regions.  
+- Model evaluation for prediction accuracy.
+
+
+**Flood Prediction using GRU Neural Network**  
+Developed a flood prediction model using GRU (Gated Recurrent Unit) networks to analyze time-series environmental data such as rainfall and water levels to predict potential flood conditions.
+
+**Technologies Used:**  
+Python, GRU, TensorFlow/Keras, Pandas, NumPy, Matplotlib  
+
+**Key Features:**  
+- Time-series data preprocessing and normalization.  
+- GRU-based deep learning model for prediction.  
+- Trend analysis of rainfall and water-level patterns.  
+- Prediction of potential flood risk scenarios.
+
+
 <br clear="both">
 
 
