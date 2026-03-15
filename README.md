@@ -81,7 +81,7 @@ HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express.js, MongoDB, RESTful A
 - Review and rating system.  
 - Location-based filtering using maps.
 
-**[Deforestation Detection using Satellite Images (CNN)](https://github.com/palakbaisla/deforestation_detection)**  
+**[Deforestation Detection using Satellite Images (CNN)](https://github.com/Bhumika-Khatri/Deforestation-Detection)**  
 A deep learning project that detects deforested areas using satellite imagery and Convolutional Neural Networks (CNN). The model analyzes land cover patterns to identify forest loss regions and support environmental monitoring.
 
 **Technologies Used:**  
