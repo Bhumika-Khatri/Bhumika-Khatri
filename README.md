@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Bhumika khatri</h1>
-<h2 align="left">Hi 👋! My name is Bhumika Khatri and I’m a passionate AI & ML student, mastering Java DSA and building full-stack solutions to grow as a developer.</h2>
+<h2 align="left">Hi 👋! I’m Bhumika Khatri, a Data Analytics and AI/ML enthusiast skilled in Python, SQL, and Power BI/Tableau. I enjoy analyzing real-world data to extract insights and build data-driven solutions.</h2>
 
 ###
 
@@ -92,7 +92,7 @@ Python, Machine Learning, TensorFlow/Keras, NumPy, OpenCV, Satellite Image Datas
 -Evaluated model performance using accuracy and validation metrics.
 
 
-**[Social Media & OTT Analytics Dashboard]**  
+**Social Media & OTT Analytics Dashboard**  
 Analyzed social media and OTT datasets to identify trends in content distribution, genre popularity, and audience preferences. Performed data preprocessing, cleaning, and exploratory data analysis (EDA) to extract meaningful insights from raw data. Built interactive dashboards using Power BI/Tableau to visualize genre trends, content growth, and regional distribution for data-driven decision-making.
 
 **Technologies Used:**  
