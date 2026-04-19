@@ -92,18 +92,6 @@ Python, Machine Learning, TensorFlow/Keras, NumPy, OpenCV, Satellite Image Datas
 -Evaluated model performance using accuracy and validation metrics.
 
 
-**Social Media & OTT Analytics Dashboard**  
-Analyzed social media and OTT datasets to identify trends in content distribution, genre popularity, and audience preferences. Performed data preprocessing, cleaning, and exploratory data analysis (EDA) to extract meaningful insights from raw data. Built interactive dashboards using Power BI/Tableau to visualize genre trends, content growth, and regional distribution for data-driven decision-making.
-
-**Technologies Used:**  
-Python, Pandas, NumPy, SQL, Power BI/Tableau, Excel
-
-**Key Features:**  
--Data preprocessing and cleaning of datasets.
--EDA to identify content and audience trends.
--Analysis of genre popularity and content growth over time.
--Interactive dashboards for visual storytelling and insights.
-
 
 <br clear="both">
 
