@@ -55,11 +55,8 @@ Here are some ideas to get you started:
 
 ###
 
-<h3>I’m currently working on</h3>
-<p>MindMate – an AI-powered mental health companion for students that remembers past conversations, provides emotional support, and helps address psychological challenges of today’s era.</p>
-
 <h3>I’m looking to collaborate on</h3>
-<p>Full-stack MERN projects, AI/ML applications and software engineering challenges.</p>
+<p>Data analysis, machine learning (AI/ML) projects, and real-world problem-solving using data-driven insights and open datasets.</p>
 
 
 ### 🚀 My Projects
@@ -82,29 +79,30 @@ HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express.js, MongoDB, RESTful A
 - Location-based filtering using maps.
 
 **[Deforestation Detection using Satellite Images (CNN)](https://github.com/Bhumika-Khatri/Deforestation-Detection)**  
-A deep learning project that detects deforested areas using satellite imagery and Convolutional Neural Networks (CNN). The model analyzes land cover patterns to identify forest loss regions and support environmental monitoring.
+A data-driven project analyzing satellite imagery to identify deforested areas using image processing and machine learning techniques. The project focuses on extracting insights from land cover data to detect forest loss regions and support environmental monitoring.
 
 **Technologies Used:**  
-Python, CNN, TensorFlow/Keras, NumPy, OpenCV, Satellite Image Dataset  
+Python, Machine Learning, TensorFlow/Keras, NumPy, OpenCV, Satellite Image Dataset
 
 **Key Features:**  
-- Image preprocessing and dataset preparation.  
-- CNN model for land classification.  
-- Detection of deforested vs forest regions.  
-- Model evaluation for prediction accuracy.
+-Performed data preprocessing and exploratory data analysis (EDA) on satellite image dataset to understand land patterns.
+-Cleaned and prepared image data for model training and feature extraction.
+-Developed a CNN-based model for land cover classification and deforestation detection.
+-Analyzed forest vs deforested regions using model predictions and visual insights.
+-Evaluated model performance using accuracy and validation metrics.
 
 
-**[Flood Prediction using GRU Neural Network](https://github.com/Bhumika-Khatri/Flood-Prediction-Using-GRU)**  
-Developed a flood prediction model using GRU (Gated Recurrent Unit) networks to analyze time-series environmental data such as rainfall and water levels to predict potential flood conditions.
+**[Social Media & OTT Analytics Dashboard]**  
+Analyzed social media and OTT datasets to identify trends in content distribution, genre popularity, and audience preferences. Performed data preprocessing, cleaning, and exploratory data analysis (EDA) to extract meaningful insights from raw data. Built interactive dashboards using Power BI/Tableau to visualize genre trends, content growth, and regional distribution for data-driven decision-making.
 
 **Technologies Used:**  
-Python, GRU, TensorFlow/Keras, Pandas, NumPy, Matplotlib  
+Python, Pandas, NumPy, SQL, Power BI/Tableau, Excel
 
 **Key Features:**  
-- Time-series data preprocessing and normalization.  
-- GRU-based deep learning model for prediction.  
-- Trend analysis of rainfall and water-level patterns.  
-- Prediction of potential flood risk scenarios.
+-Data preprocessing and cleaning of datasets.
+-EDA to identify content and audience trends.
+-Analysis of genre popularity and content growth over time.
+-Interactive dashboards for visual storytelling and insights.
 
 
 <br clear="both">
