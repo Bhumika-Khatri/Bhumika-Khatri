@@ -140,13 +140,19 @@
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhumika-Khatri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-Khatri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhumika-Khatri&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhumika-Khatri&theme=tokyonight&hide_border=true" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhumika-Khatri&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhumika-Khatri&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhumika-Khatri&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhumika-Khatri&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
