@@ -4,7 +4,7 @@
 
 <h1>Hi 👋 I'm Bhumika Khatri</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;Data+Science+%26+AI%2FML+Enthusiast;Python+%7C+SQL+%7C+Excel+%7C+Tableau;Turning+Data+Into+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist;Aspiring+Machine+Learning+Engineer;Aspiring+Software+Engineer;Python+%7C+SQL+%7C+Excel+%7C+Tableau+%7C+Power+BI;Turning+Data+Into+Actionable+Insights" />
 
 </div>
 
