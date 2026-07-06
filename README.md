@@ -9,22 +9,21 @@
 </div>
 
 ---
-
 # 👩‍💻 About Me
 
 🎓 B.Tech Student in **Artificial Intelligence & Machine Learning**
 
-📊 Passionate about **Data Analytics, Data Science, Business Intelligence, and Machine Learning**
+📊 Passionate about **Data Analytics, Data Science, Business Intelligence, Artificial Intelligence, and Machine Learning**
 
-💡 I enjoy transforming raw data into meaningful insights through visualization, statistical analysis, and predictive modeling.
+💡 I enjoy transforming raw data into meaningful insights through data analysis, visualization, statistical techniques, and predictive modeling to solve real-world problems.
 
-📈 Skilled in building interactive dashboards, analyzing datasets, developing machine learning models, and solving real-world business problems.
+📈 Experienced in building interactive dashboards, performing Exploratory Data Analysis (EDA), developing machine learning models, and creating data-driven solutions using Python, SQL, Excel, Tableau, and Power BI.
 
-🌱 Currently exploring **Deep Learning, NLP, Power BI, Advanced SQL, and Data Engineering**
+💻 Strong foundation in **Data Structures & Algorithms (Java)**, Object-Oriented Programming (OOP), and problem-solving.
 
-💻 Strong foundation in **Data Structures & Algorithms (Java)**
+🌱 Currently exploring **Deep Learning, Natural Language Processing (NLP), Advanced SQL, Power BI, Data Engineering, and Cloud Technologies.**
 
----
+🤝 Open to **Data Analyst, Business Analyst, Data Science, AI/ML, and Software Development Internship** opportunities.
 
 # 🛠 Tech Stack
 
@@ -137,19 +136,7 @@
 
 🏅 Data Structures & Algorithms in Java – Apna College
 
----
 
-# 📚 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Deep Learning
-- NLP
-- Data Engineering
-- Business Intelligence
-- Statistics for Data Science
-
----
 
 # 📈 GitHub Analytics
 
