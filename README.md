@@ -138,21 +138,16 @@
 
 
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhumika-Khatri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-Khatri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhumika-Khatri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-Khatri&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Bhumika-Khatri&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhumika-Khatri&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
