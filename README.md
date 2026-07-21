@@ -126,6 +126,20 @@
 
 ✔ Built responsive UI and RESTful backend architecture.
 
+## ✈️ Airline Operations Analytics Dashboard
+
+**Tech Stack:** SQL • Tableau • Advanced Excel • Data Analytics
+
+✔ Cleaned and transformed airline operations data using SQL and Advanced Excel.
+
+✔ Built an interactive Tableau dashboard to analyze flight performance, delays, cancellations, and operational KPIs.
+
+✔ Created dynamic visualizations to monitor passenger traffic, on-time performance, and operational trends.
+
+✔ Developed KPI dashboards to support data-driven decision-making and improve operational efficiency.
+
+✔ Delivered actionable insights through interactive filters, charts, and performance metrics.
+
 ---
 
 # 🏆 Certifications
