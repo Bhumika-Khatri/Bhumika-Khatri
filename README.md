@@ -126,6 +126,8 @@
 
 ✔ Built responsive UI and RESTful backend architecture.
 
+---
+
 ## ✈️ Airline Operations Analytics Dashboard
 
 **Tech Stack:** SQL • Tableau • Advanced Excel • Data Analytics
